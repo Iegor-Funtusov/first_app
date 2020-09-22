@@ -8,5 +8,6 @@ public class Main {
         TestRun testRun = new TestRun();
         testRun.print();
         testRun.runMyNewApplication();
+        //you are stupud
     }
 }
